@@ -30,7 +30,7 @@
             <groupId>org.springframework</groupId>
             <artifactId>spring-test</artifactId>
             <version>5.2.3.RELEASE</version>
-            <scope>testa</scope>
+            <scope>test</scope>
         </dependency>
 
         <dependency>
