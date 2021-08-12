@@ -28,7 +28,7 @@
 
         <dependency>
             <groupId>org.springframework</groupId>
-            <artifactId>spring-test</artifactId>
+            <artifactId>spring-testa</artifactId>
             <version>5.2.3.RELEASE</version>
             <scope>test</scope>
         </dependency>
